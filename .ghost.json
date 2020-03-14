@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://206.189.141.176",
+    "contentApiKey": "46b2d94139a34e997510237950"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://206.189.141.176",
+    "contentApiKey": "46b2d94139a34e997510237950"
   }
 }
